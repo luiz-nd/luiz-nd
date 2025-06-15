@@ -28,4 +28,19 @@ What's up...!?
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-  
+
+### 📈 Um pouco dos meus stats:
+
+![Lipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lipeepil&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipeepil&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Bora conectar?
+
+[![Instagram](https://img.shields.io/badge/@L1pe_dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/L1pe_dev/)
+
+---
+
+💬 *"Só erra quem tenta. E eu tô tentando todo dia!"*
