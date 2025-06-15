@@ -29,13 +29,6 @@ What's up...!?
 
 ---
 
-### 📈 Um pouco dos meus stats:
-
-![Lipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lipeepil&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipeepil&layout=compact&theme=tokyonight)
-
----
 
 ### 🤝 Bora conectar?
 
