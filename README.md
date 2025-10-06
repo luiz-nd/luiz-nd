@@ -1,6 +1,6 @@
 What's up...!?
 
-<h1 align="center">Fala aí! 👋 Eu sou o Lipe!</h1>
+<h1 align="center">Fala aí!</h1>
 
 <p align="center">
   🎮 Gamer de coração | 👨‍💻 Dev por paixão | ☕ E um capuccino sempre em mãos
