@@ -32,7 +32,8 @@ What's up...!?
 
 ### 🤝 Bora conectar?
 
-[![Instagram](https://img.shields.io/badge/@L1pe_dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/L1pe_dev/)
+[![Instagram](https://img.shields.io/badge/@l1pe_art-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l1pe_art/)
+
 
 ---
 
