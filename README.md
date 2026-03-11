@@ -31,7 +31,9 @@ What's up...!?
 
 ### 🤝 Bora conectar?
 [![Instagram](https://img.shields.io/badge/@l1pe_art-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l1pe_art/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Felipe%20Santana%20Faria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-santana-faria/)
+
 [![Email](https://img.shields.io/badge/Email-lipe.gsell@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lipe.gsell@gmail.com)
 
 ---
