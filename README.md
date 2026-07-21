@@ -6,18 +6,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luiz-felipe-santana-faria/">
-    <img src="https://img.shields.io/badge/LinkedIn-f5f5f5?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+  <a href="https://www.linkedin.com/in/luiz-felipe-santana-faria/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:lipe.gsell@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-f5f5f5?style=flat-square&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/-Email-000000?style=social&logo=gmail" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/l1pe_art/">
-    <img src="https://img.shields.io/badge/Instagram-f5f5f5?style=flat-square&logo=instagram&logoColor=E4405F" />
+  <a href="https://www.instagram.com/l1pe_art/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" alt="Instagram" />
   </a>
-
+</p>
 ---
 
 ### Sobre Mim
