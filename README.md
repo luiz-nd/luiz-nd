@@ -6,9 +6,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luiz-felipe-santana-faria/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/l1pe_art/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
+  <a href="https://www.linkedin.com/in/luiz-felipe-santana-faria/">
+    <img src="https://img.shields.io/badge/LinkedIn-f5f5f5?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:lipe.gsell@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-f5f5f5?style=flat-square&logo=gmail&logoColor=EA4335" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/l1pe_art/">
+    <img src="https://img.shields.io/badge/Instagram-f5f5f5?style=flat-square&logo=instagram&logoColor=E4405F" />
+  </a>
 
 ---
 
@@ -27,14 +35,6 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento 
 | **Banco de Dados** | SQL, PostgreSQL,Dbeaver|
 | **Front-End & Web** | HTML5, CSS3, React, Vite |
 | **Engenharia & Outros** | Git, VS Code, Game Maker, Automação de Processos, IA & Prompts |
-
----
-
-### Projetos em Destaque
-
-* **Arquitetura Web com IA:** Desenvolvimento de aplicação web full-stack integrada a uma API local em Python/FastAPI, utilizando a IDE Antigravity e engenharia de prompts para otimização de fluxo.
-* **Jester:** Rede social anônima voltada para compartilhamento de piadas, construída com React, Vite, moderação local e persistência em `localStorage`.
-* **ChromaBound:** Jogo 2D educativo focado em mecânicas inspiradas em lógica de mistura de cores.
 
 ---
 
