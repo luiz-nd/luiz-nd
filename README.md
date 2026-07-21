@@ -1,36 +1,42 @@
-What's up...!?
+<h1 align="center">Luiz Felipe Santana Faria</h1>
 
-<h1 align="center">Fala aí!</h1>
+<p align="center">
+  <b>Junior Analyst | Back-End Developer</b><br>
+  Python | Node.js | SQL & REST APIs | Automação & IA | Game Maker
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-felipe-santana-faria/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/l1pe_art/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:lipe.gsell@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### 💻 Sobre mim
+### Sobre Mim
 
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🔥 Sempre aprendendo algo novo
-- 🚀 Curioso por back-end, mas também me aventuro no front
-- 🎯 Foco em evoluir um pouco todo dia 
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento **Back-End**, arquitetura web e construção de APIs REST eficientes. Possuo experiência prévia em Customer Success, o que me confere forte orientação para a resolução de problemas e foco na experiência do usuário e do negócio. Atualmente, exploro integrações com Inteligência Artificial, automações e desenvolvimento de software multiplataforma.
 
 ---
 
-| Front-end | Back-end | Banco de Dados | Ferramentas |
-|-----------|----------|----------------|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/> |  |  |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP"/> |  |  |
+### Tech Stack
+
+| Camada / Domínio | Tecnologias & Ferramentas |
+| :--- | :--- |
+| **Linguagens** | Python, JavaScript (Node.js) |
+| **Back-End & APIs** | FastAPI, Uvicorn, REST APIs, JSON, Testes de API |
+| **Banco de Dados** | SQL, PostgreSQL,Dbeaver|
+| **Front-End & Web** | HTML5, CSS3, React, Vite |
+| **Engenharia & Outros** | Git, VS Code, Game Maker, Automação de Processos, IA & Prompts |
 
 ---
 
+### Projetos em Destaque
 
-### 🤝 Bora conectar?
-[![Instagram](https://img.shields.io/badge/@l1pe_art-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l1pe_art/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Felipe%20Santana%20Faria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-santana-faria/)
-
-[![Email](https://img.shields.io/badge/Email-lipe.gsell@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lipe.gsell@gmail.com)
+* **Arquitetura Web com IA:** Desenvolvimento de aplicação web full-stack integrada a uma API local em Python/FastAPI, utilizando a IDE Antigravity e engenharia de prompts para otimização de fluxo.
+* **Jester:** Rede social anônima voltada para compartilhamento de piadas, construída com React, Vite, moderação local e persistência em `localStorage`.
+* **ChromaBound:** Jogo 2D educativo focado em mecânicas inspiradas em lógica de mistura de cores.
 
 ---
 
-💬 *"Só erra quem tenta. E eu tô tentando todo dia!"*
+> *"Só erra quem tenta. E eu tô tentando e evoluindo todo dia."*
