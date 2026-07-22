@@ -32,7 +32,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento 
 | :--- | :--- |
 | **Linguagens** | Python, JavaScript (Node.js) |
 | **Back-End & APIs** | FastAPI, Uvicorn, REST APIs, JSON, Testes de API |
-| **Banco de Dados** | SQL, PostgreSQL,Dbeaver|
+| **Banco de Dados** | SQL, PostgreSQL|
 | **Front-End & Web** | HTML5, CSS3, React, Vite |
 | **Engenharia & Outros** | Git, VS Code, Game Maker, Automação de Processos, IA & Prompts |
 
